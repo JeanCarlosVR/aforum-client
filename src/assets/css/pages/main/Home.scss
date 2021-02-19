@@ -1,0 +1,88 @@
+.home-qTyM {
+    max-width: 100%;
+    width: 100%;
+    margin-top: 10vh;
+}
+
+.home-content-Qr {
+    max-width: 96%;
+    width: 96%;
+    margin-left: 2%;
+    margin-right: 2%;
+    background-color: #41465a;
+    padding: 50px 5%;
+    border-radius: 8px;
+    -webkit-box-shadow: 0px 0px 4px 1px rgba(28,28,28,0.62);
+    -moz-box-shadow: 0px 0px 4px 1px rgba(28,28,28,0.62);
+    box-shadow: 0px 0px 4px 1px rgba(28,28,28,0.62);
+}
+
+.home-content-left-bQt {
+    width: 75%;
+}
+
+.lIqVmGaXdPq {
+    margin-top: 25px;
+}
+
+.home-forum-list-forum-kQe {
+    background-color: #292d3e;
+    height: 100px;
+    border-radius: 8px;
+    -webkit-box-shadow: 2px 2px 4px 0px rgba(28,28,28,1);
+    -moz-box-shadow: 2px 2px 4px 0px rgba(28,28,28,1);
+    box-shadow: 2px 2px 4px 0px rgba(28,28,28,1);
+}
+
+.home-forum-container-Qe {
+    display: inline-block;
+    height: 100px;
+    width: 100%;
+}
+
+.home-forum-icon-container-qN {
+    width: 7%;
+}
+
+.home-forum-icon-Qm {
+    width: 15px;
+}
+
+.home-forum-name-description-container-bQC {
+    height: 100px;
+    width: 60%;
+}
+
+.home-forum-name-yQt {
+    top: 0;
+    font-size: 22px;
+}
+
+.home-forum-description-gAq {
+    height: 100px;
+    font-size: 16px;
+    margin-top: 15px;
+}
+
+.home-forum-stats-container-QyE {
+    height: 100px;
+    width: 33%;
+}
+
+.home-forum-stats-text-uYq {
+    display: inline-block;
+    width: 33.33%;
+}
+
+@media (max-width: 1024px) {
+    .home-content-left-bQt {
+        width: 100%;
+    }
+
+    .home-content-Qr {
+        max-width: 100%;
+        width: 100%;
+        margin-left: 0;
+        margin-right: 0;
+    }
+}
