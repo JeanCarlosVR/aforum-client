@@ -1,0 +1,109 @@
+.signin-main-container-uAtxH {
+    width: 100%;
+    max-width: 100%;
+}
+
+.signin-form-container-sYxn {
+    width: 400px;
+    background-color: #ffffff;
+    margin: 15vh auto;
+    height: 500px;
+    text-align: center;
+    border-color: #dadce0;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.signin-form-header-section-xAusM {
+    margin-top: 50px;
+}
+
+.signin-form-inputs-section-yAtz {
+    margin-top: 120px;
+}
+
+.signin-forget-password-aYxN {
+    width: 400px;
+    background-color: #ffffff;
+    margin: -100px auto;
+    height: 60px;
+    text-align: center;
+    border-color: #dadce0;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.input-style-xyRm-unique {
+    width: 75%;
+    font-size: 14px;
+    padding: 10px 15px;
+    border-color: #dadce0;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+.input-style-xyRm {
+    width: 75%;
+    font-size: 14px;
+    padding: 10px 15px;
+    margin-top: 25px;
+    border-color: #dadce0;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 20px;
+}
+
+.signin-submit-button-xSy {
+    margin: 20px auto;
+    text-align: center;
+    margin-left: 150px; /*Esto no, solo era para visualizar*/
+}
+
+#signin-form-header-title-uAy {
+    font-size: 50px;
+    font-weight: bold;
+    display: inline-block;
+}
+
+#signin-button-signin-sAyxM {
+    background-color: #738bdb;
+    border: 0;
+    border-radius: 25px;
+    color: #ffffff;
+    font-weight: 500;
+    padding: 2px 25px;
+}
+
+#signin-button-signin-sAyxM:focus {
+    border: 0;
+}
+
+.signin-forget-password-container-tArx {
+    margin-top: 18px;
+}
+
+.signin-forget-password-text-sYxm {
+    color: #486caf;
+}
+
+@media (max-width: 426px) {
+    .signin-form-container-sYxn {
+        width: 98%;
+        margin: 0 auto;
+    }
+
+    .signin-forget-password-aYxN {
+        width: 98%;
+        margin: 0 auto;
+    }
+
+    .input-style-xyRm-unique {
+        width: 80%;
+    }
+
+    .input-style-xyRm {
+        margin-top: 40px;
+        width: 80%;
+    }
+}

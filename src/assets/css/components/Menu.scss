@@ -1,0 +1,43 @@
+.menu-xATqM {
+    max-width: 100%;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    background-color: #31364a;
+}
+
+.navbar-item, .navbar-aKyMx, .navbar-dropdown {
+    background-color: #292d3e;
+}
+
+.navbar-aKyMx {
+    -webkit-box-shadow: 0px 5px 10px -7px rgba(0,0,0,0.21);
+    -moz-box-shadow: 0px 5px 10px -7px rgba(0,0,0,0.21);
+    box-shadow: 0px 5px 10px -7px rgba(0,0,0,0.21);
+}
+
+#menu-user-profile-qMer {
+    max-width: 50px;
+    max-height: 50px;
+    width: 45px;
+    height: 45px;
+    border-radius: 500px;
+    position: absolute;
+    float: right;
+    margin-right: 25px;
+    margin-top: 8px;
+}
+
+#menu-user-profile-qMer:hover {
+    margin-top: 6px;
+}
+
+.navbar-item {
+    color: #929ac9;
+}
+
+.navbar-item:hover, .navbar-link:after  {
+    color: #f1f1f1 !important;
+    background-color: #373b50 !important;
+    background: #373b50 !important;
+}
